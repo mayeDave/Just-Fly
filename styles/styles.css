@@ -1,0 +1,59 @@
+
+.custom-bg {
+    background-color: #FFF !important;
+
+}
+
+.logo-font {
+    font-family: "Protest Guerrilla", sans-serif !important;
+    font-size: 30px !important;
+    color: red !important;
+}
+
+.text-light {
+    color: red !important;
+    font-size: 16px !important;
+    font-weight: 500 !important;
+}
+
+.text-overlay {
+    position: absolute;
+    bottom: 10px;
+    left: 20px;
+    color: white;
+    font-size: 70px;
+    font-family: cursive;
+    background-color: rgba(0, 0, 0, 0.5); /* Optional: for better contrast */
+    padding: 10px;
+  }
+
+.section-bg {
+    background-color: #f6f6f7 !important;
+    margin: 40px;
+    border-radius: 16px;
+}
+
+.footer-bg {
+    background-color: #f8f4f8 !important;
+}
+
+.svg-text {
+    font-size: 40px;
+    font-weight: 500;
+    font-family: cursive;
+    margin: 0 50px;
+}
+
+#about h2 {
+    padding: 0 200px;
+    padding-top: 50px;
+    color: #333;
+    font-family: 'Lucida Sans', Verdana, sans-serif;
+    font-size: 50px;
+}
+
+.album-height {
+    height: 150px !important;
+    font-size: 18px !important;
+    color: #333;
+}
